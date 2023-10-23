@@ -1,3 +1,5 @@
+// 3의 배수의 합 구하기
+
 package chapter4;
 
 public class Exercise03 {
